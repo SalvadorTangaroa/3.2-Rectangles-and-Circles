@@ -38,7 +38,7 @@ what data those classes hold, and how those classes behave are the main objectiv
     // edges of the rectangle at x and x + width. The top and bottom
     edges
     // are at y and y + height.
-    public void draw()
+
     ```
 
 ## Assignment:
@@ -47,7 +47,7 @@ what data those classes hold, and how those classes behave are the main objectiv
     rectangle at x and x + width. The top and bottom edges are at y and y + height.
     - A method getPerimeter calculates and returns the perimeter of the Rectangle.
     - A method getArea calculates and returns the area of the Rectangle.
-    - A method draw displays a new instance of a Rectangle object. 
+
 2. Try your rectangle with both the default constructor and with a constructor that can take the x
 and y coordinates, the length of the rectangle, and the width. Here are some sample constructor
 calls:
